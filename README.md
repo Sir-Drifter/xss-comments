@@ -1,2 +1,2 @@
-# xss-comments.github.io
+# xss-comments
 For XSS Testing
