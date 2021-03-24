@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <div class="line"></div>
 <div class="wrapper">
   <header role="banner">
@@ -178,3 +181,5 @@
 			</article></li>
 		</ol>
 	</section>
+</head>
+</html>
