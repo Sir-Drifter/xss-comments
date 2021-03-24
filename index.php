@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" media="screen" href="style.css" />
 <div class="line"></div>
 <div class="wrapper">
   <header role="banner">
